@@ -10,3 +10,5 @@ Routine does the following:
 - initiate a dialog box for the user to enter the densities (lb / cu. ft. or other) of each noted layer
 - calculate the composite center of gravity
 - export the information to a CSV file for documentation and verification
+
+Video of sample use: https://youtu.be/bLOZLg_tG28
