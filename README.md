@@ -11,4 +11,6 @@ Routine does the following:
 - calculate the composite center of gravity
 - export the information to a CSV file for documentation and verification
 
+![CG](https://github.com/user-attachments/assets/1a3acd95-4496-49d4-aeb5-26789909f9ea)
+
 Video of sample use: https://youtu.be/bLOZLg_tG28
